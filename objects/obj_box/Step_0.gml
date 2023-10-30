@@ -1,0 +1,1 @@
+image_angle += (mouse_wheel_up() - mouse_wheel_down()) * 5;

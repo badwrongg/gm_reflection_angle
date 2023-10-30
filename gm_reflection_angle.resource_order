@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Example","order":9,"path":"folders/Example.yy",},
+    {"name":"Libraries","order":8,"path":"folders/Libraries.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_box","order":3,"path":"sprites/spr_box/spr_box.yy",},
+    {"name":"obj_reflect","order":1,"path":"objects/obj_reflect/obj_reflect.yy",},
+    {"name":"spr_reflect","order":4,"path":"sprites/spr_reflect/spr_reflect.yy",},
+    {"name":"vec2_lib","order":1,"path":"scripts/vec2_lib/vec2_lib.yy",},
+    {"name":"rm_example","order":2,"path":"rooms/rm_example/rm_example.yy",},
+  ],
+}
